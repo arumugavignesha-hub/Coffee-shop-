@@ -243,6 +243,7 @@ padding: 10px 26px;
   
 }
 .menu-section .menu-list {
+  padding: 25px 100px 65px;
   display: flex;
   flex-wrap: wrap;
   gap: 95px;
@@ -377,6 +378,27 @@ padding: 10px 26px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+/* Responsive media allery code for max width 900px*/
+@media  and (max-width:900px) {
+  .hero-section .section-contect{
+    gap:50px;
+    text-align:center;
+    padding:30px 20px 20px;
+    flex-direction:column-reverse;
+    justify-content:center;
+  }
+  .hero-section .hero-details:is (.subtitle, .description){
+    max-width:100px;
+  }
+  .hero-section .hero-details .buttons{
+    justify-content: center;
+  }
+  .hero-section .hero-image-wrapper{
+    max-width: 270px;
+    margin-right: 0;
+  }
+  
 }
 /* Responsive media allery code for max width 1024px*/
 @media screen and (max-width:1024px){
