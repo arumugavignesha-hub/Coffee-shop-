@@ -379,9 +379,6 @@ padding: 10px 26px;
   align-items: center;
   justify-content: space-between;
 }
-@media screen  {
-  
-}
 /* Responsive media allery code for max width 1024px*/
 @media screen and (max-width:1024px){
 .menu-section .menu-list{
