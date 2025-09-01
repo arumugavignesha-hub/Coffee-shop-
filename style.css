@@ -260,7 +260,7 @@ padding: 10px 26px;
 .menu-section .menu-list .menu-item .menu-image{
   max-width: 83%;
   aspect-ratio: 1;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
   object-fit: contain;
 }
 .menu-section .menu-list .menu-item .name{
