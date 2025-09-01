@@ -258,13 +258,13 @@ padding: 10px 26px;
   width: calc(90% / 3 - 110px);
 }
 .menu-section .menu-list .menu-item .menu-image{
-  max-width: 73%;
+  max-width: 74%;
   aspect-ratio: 1;
   margin-bottom: 50px;
   object-fit: contain;
 }
 .menu-section .menu-list .menu-item .name{
-  margin: 12px 0;
+  margin: 13px 0;
   font-size: var(--font-size-1);
   font-weight: var(--font-weight-semibold);
 }
