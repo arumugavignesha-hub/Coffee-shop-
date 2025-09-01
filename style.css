@@ -245,7 +245,7 @@ padding: 10px 26px;
 .menu-section .menu-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 110px;
+  gap: 100px;
   align-items: center;
   justify-content: space-between;
 }
@@ -255,7 +255,7 @@ padding: 10px 26px;
   text-align: center;
   flex-direction: column;
   justify-content:space-between;
-  width: calc(100% / 3 - 110px);
+  width: calc(90% / 3 - 110px);
 }
 .menu-section .menu-list .menu-item .menu-image{
   max-width: 83%;
