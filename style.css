@@ -238,7 +238,6 @@ padding: 10px 26px;
 }
 /*menu section styling*/
 .menu-section {
-  padding: 50px 0 100px;
   color: var(--white-color);
   background: var(--dark-color);
   
@@ -259,7 +258,7 @@ padding: 10px 26px;
   width: calc(90% / 3 - 110px);
 }
 .menu-section .menu-list .menu-item .menu-image{
-  max-width: 83%;
+  max-width: 73%;
   aspect-ratio: 1;
   margin-bottom: 50px;
   object-fit: contain;
