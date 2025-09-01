@@ -245,7 +245,7 @@ padding: 10px 26px;
 .menu-section .menu-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 100px;
+  gap: 95px;
   align-items: center;
   justify-content: space-between;
 }
@@ -264,7 +264,7 @@ padding: 10px 26px;
   object-fit: contain;
 }
 .menu-section .menu-list .menu-item .name{
-  margin: 18px 0;
+  margin: 12px 0;
   font-size: var(--font-size-1);
   font-weight: var(--font-weight-semibold);
 }
