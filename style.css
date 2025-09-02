@@ -379,8 +379,27 @@ padding: 10px 26px;
   align-items: center;
   justify-content: space-between;
 }
+/* Responsive media query code for max width 900px*/
+@media screen and (max-width:900px){
+  .hero-section .section-content{
+    gap:50px;
+    text-align:center;
+    padding:30px 20px 20px;
+    flex-direction:column-reverse;
+    justify-content:cneter;
+  }
+  .hero-section .hero-details:is (.subtitle, .description){
+    max-width:100%;
+  }
+  .hero-section .hero-details .buttons{
+    justify-content:center;
+  }
+  .hero-section .hero-image-wrapper{
+    max-width:270px;
+    margin-right:0;
+  }
+}
 /* Responsive media allery code for max width 1024px*/
-
 @media screen and (max-width:1024px){
 .menu-section .menu-list{
   gap: 110px;
