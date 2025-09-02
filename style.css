@@ -381,6 +381,7 @@ padding: 10px 26px;
 }
 /* Responsive media allery code for max width 1024px*/
 @media screen and (max-width:1024px){
+@media screen and (max-width:1024px){
 .menu-section .menu-list{
   gap: 110px;
 }
@@ -397,5 +398,5 @@ padding: 10px 26px;
     width: 100%;
   }
 } 
-
+ 
 
