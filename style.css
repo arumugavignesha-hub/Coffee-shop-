@@ -382,7 +382,7 @@ padding: 10px 26px;
 /* Responsive media allery code for max width 1024px*/
 @media screen and (max-width:1024px){
 .menu-section .menu-list{
-  gap: 60px;
+  gap: 100px;
 }
 .menu-section .menu-list .menu-item{
   width: calc(100% /3-60px);
