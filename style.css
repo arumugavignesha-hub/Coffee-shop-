@@ -428,6 +428,8 @@ padding: 10px 26px;
     display:block;
     margin-top:17px;
     font-size:var(--font-size-1);
+  }
+}
 /* Responsive media allery code for max width 1024px*/
 @media screen and (max-width:1024px){
 .menu-section .menu-list{
